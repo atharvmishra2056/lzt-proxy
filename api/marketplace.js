@@ -1,5 +1,3 @@
-import fetch from "node-fetch";
-
 const LZT_BASE = "https://prod-api.lzt.market";
 const CATEGORIES = {
   valorant: "/valorant",
