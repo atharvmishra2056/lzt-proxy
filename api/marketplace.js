@@ -1,4 +1,4 @@
-const LZT_BASE = "https://prod-api.lzt.market";
+const LZT_BASE = "https://api.lzt.market";
 const CATEGORIES = {
   valorant: "/valorant",
   lol: "/lol",
